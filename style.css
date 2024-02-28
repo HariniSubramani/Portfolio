@@ -1,0 +1,244 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300,900;1,300&display=swap');
+
+ body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0; 
+}
+.face{
+    width: 500px;
+    height: 500px;
+    margin-left: 90px;
+    margin-top: 40px;
+
+
+}
+.nav{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    
+color: rgb(57, 121, 123);
+font-weight: 900px;
+}
+.links
+{
+ display: flex;
+ gap: 20px;
+ 
+}
+.alink{
+    text-decoration: none;
+    color: rgb(57, 121, 123);
+    font-size: 14px;
+}
+.main{
+   margin-top: 20px ;
+}
+.container_1{
+    height: 650PX;
+    display: flex;
+}
+.segment1{
+  width: 50%;
+
+}
+.img{
+   width: 50%;
+   border-radius: 50%;
+   margin-top: 8% ;
+   margin-left: 30%;
+}
+
+.segment2{
+    margin-top: 10%;
+}
+.head{
+    color: rgb(0, 76, 79);
+    margin-bottom: 8px;
+}
+.name{
+  margin-top: 0;
+  color: rgb(0, 76, 79);
+}
+.desc{
+    color: rgb(0, 76, 79);
+    margin-bottom: 0;
+}
+.icons{
+    width: 200px;
+   display: flex;
+    align-items: center;
+    gap: 25px;   
+}
+.insta{
+    margin-top: 15px;
+    color: rgb(0, 76, 79);
+    transition: .5s;
+    cursor: pointer;
+}
+.insta:hover{
+    border: none;
+    padding: 8px;
+    box-shadow: 2px 2px 10px black;
+    border-radius: 50%;
+}
+.container_2{
+    width: 100%;
+   display: flex;
+   gap: 25px;
+   justify-content: center;
+   margin-top: 3%;
+}
+.head1{
+    margin-top: 5%;
+    text-align: center;
+    color: rgb(0, 73, 75);
+}
+.card{
+  width: 450px;
+  height: 300px;
+  border-radius: 12px;
+  background-color:rgba(0, 68, 71, 0.919);
+  
+  
+}
+.class{
+    margin-left: 20px;
+    margin-top: 25px;
+    color: white;
+    
+}
+.scl{
+    margin-top: 45px;
+    margin-left: 40px;
+    color: white;
+  
+}
+.year{
+    margin-left: 40px;
+    margin-top: 15px;
+    color: white;
+}
+
+.scl_name{
+    margin-left: 40px;
+    margin-top: 15px;
+    color: white;
+}
+
+.percent{
+    margin-left: 40px;
+    margin-top: 15px;
+    color: white;
+}
+.container_3{
+    display: flex;
+    gap: 80px;
+    margin-left: 10%;
+    
+}
+.blink{
+    display: flex;
+    gap: 5px;
+     
+    align-items: center;
+    margin-left: 10%;
+    margin-bottom: 4%;
+    margin-top: 7%;
+}
+.bulb{
+    color: rgb(0, 73, 75); 
+}
+.div{
+   
+    color: rgb(0, 73, 75);  
+    text-align: center;
+
+    
+}
+.card1{
+    margin-top: 3.5%;
+   height: 90px;
+   padding: 16px;
+   border-radius: 50px;
+   border: 2px solid  rgb(0, 73, 75);
+}
+.java{
+    margin-top: 3%;
+    text-align: center;
+    
+
+}
+.per{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.per2{
+    margin-top:20px ;
+    text-align: center;
+    padding: 5px;
+}
+
+.skill{
+
+    width: 500px;
+    border-radius: 18px;
+}
+.container_4{
+    width: 100%;
+   display: flex;
+   gap: 25px;
+   justify-content: center;
+   margin-top: 3%;
+ 
+    
+}
+.title1{
+    margin-top: 5%;
+    color: rgb(0, 73, 75); 
+    text-align: center;
+}
+.box{
+    background: rgb(147,165,251);
+    background: radial-gradient(circle, rgba(147,165,251,1) 11%, rgba(14,2,25,1) 90%);
+    width: 440px;
+    height: 230px;
+    border-radius: 16px;
+    padding: 8px;
+    color: white;
+}
+.achieve{
+    padding:5px 10px ;
+    font-size: 20px;
+}
+.footer{
+width: 100%;
+margin-top: 5%;
+}
+
+.phone{
+    margin-top: 8%;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(0, 73, 75);
+    margin-left: 33%; 
+}
+.can{
+    width: 500px;
+    font-size: 14px;
+    color: rgb(0, 73, 75);
+    margin-left: 40%;
+    text-align: center;  
+    padding: 0;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
